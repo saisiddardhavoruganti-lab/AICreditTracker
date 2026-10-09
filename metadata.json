@@ -1,0 +1,6 @@
+{
+  "name": "AetherCredits - AI Credit & Subscription Tracker",
+  "description": "Futuristic minimalist cockpit to track daily and weekly AI credit subscriptions, monitor active power cores, and estimate task costs with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
